@@ -1,0 +1,38 @@
+bigint: Failed to load bindings, pure JS will be used (try npm run rebuild?)
+
+setting console logger
+
+{"timestamp":"2023-09-01T07:31:17.072Z","level":"debug","id":"TaskRunner","message":"No job configs found. Continuing.."}
+
+{"timestamp":"2023-09-01T07:31:17.073Z","level":"info","id":"HealthCheck","message":"health check server initialized at /healthz on PORT 8080"}
+
+TypeError: Endpoint URL must start with `http:` or `https:`.
+    at Qja (/Users/nero/Library/Caches/@switchboard-xyz/sbv2-oracle/testnet-2.0.12/index.js:35:17647)
+    at new r (/Users/nero/Library/Caches/@switchboard-xyz/sbv2-oracle/testnet-2.0.12/index.js:35:34539)
+    at get connection [as connection] (/Users/nero/Library/Caches/@switchboard-xyz/sbv2-oracle/testnet-2.0.12/index.js:1437:54248)
+    at xPe.load (/Users/nero/Library/Caches/@switchboard-xyz/sbv2-oracle/testnet-2.0.12/index.js:1443:602821)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /Users/nero/Library/Caches/@switchboard-xyz/sbv2-oracle/testnet-2.0.12/index.js:1449:42723
+
+{"timestamp":"2023-09-01T07:31:17.075Z","level":"info","id":"","message":"$PAGERDUTY_EVENT_KEY missing, skipping alert"}
+
+Exit code 1 received
+bigint: Failed to load bindings, pure JS will be used (try npm run rebuild?)
+
+setting console logger
+
+{"timestamp":"2023-09-01T07:31:18.560Z","level":"debug","id":"TaskRunner","message":"No job configs found. Continuing.."}
+
+{"timestamp":"2023-09-01T07:31:18.561Z","level":"info","id":"HealthCheck","message":"health check server initialized at /healthz on PORT 8080"}
+
+TypeError: Endpoint URL must start with `http:` or `https:`.
+    at Qja (/Users/nero/Library/Caches/@switchboard-xyz/sbv2-oracle/testnet-2.0.12/index.js:35:17647)
+    at new r (/Users/nero/Library/Caches/@switchboard-xyz/sbv2-oracle/testnet-2.0.12/index.js:35:34539)
+    at get connection [as connection] (/Users/nero/Library/Caches/@switchboard-xyz/sbv2-oracle/testnet-2.0.12/index.js:1437:54248)
+    at xPe.load (/Users/nero/Library/Caches/@switchboard-xyz/sbv2-oracle/testnet-2.0.12/index.js:1443:602821)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /Users/nero/Library/Caches/@switchboard-xyz/sbv2-oracle/testnet-2.0.12/index.js:1449:42723
+
+{"timestamp":"2023-09-01T07:31:18.562Z","level":"info","id":"","message":"$PAGERDUTY_EVENT_KEY missing, skipping alert"}
+
+Exit code 1 received

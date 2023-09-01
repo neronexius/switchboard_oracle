@@ -1,0 +1,51 @@
+bigint: Failed to load bindings, pure JS will be used (try npm run rebuild?)
+
+setting console logger
+
+{"timestamp":"2023-09-01T07:36:29.508Z","level":"debug","id":"TaskRunner","message":"No job configs found. Continuing.."}
+
+(node:6382) ExperimentalWarning: The Fetch API is an experimental feature. This feature could change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+{"timestamp":"2023-09-01T07:36:29.510Z","level":"info","id":"HealthCheck","message":"health check server initialized at /healthz on PORT 8080"}
+
+{"timestamp":"2023-09-01T07:36:29.564Z","level":"info","id":"Environment","message":"TASK_RUNNER_SOLANA_RPC: https://api.mainnet-beta.solana.com"}
+
+{"timestamp":"2023-09-01T07:36:29.565Z","level":"debug","id":"Environment","message":"Verbose logging enabled"}
+
+{"timestamp":"2023-09-01T07:36:29.565Z","level":"info","id":"Environment","message":"@SWITCHBOARD-XYZ/COMMON: 2.3.4"}
+
+{"timestamp":"2023-09-01T07:36:29.565Z","level":"info","id":"Environment","message":"TASK_RUNNER_VERSION: 2.4.2"}
+{"timestamp":"2023-09-01T07:36:29.565Z","level":"info","id":"Environment","message":"ORACLE_VERSION: RC_08_30_23_13_14"}
+
+{"timestamp":"2023-09-01T07:36:29.565Z","level":"info","id":"Environment","message":"TASK_RUNNER_SOLANA_URL: https://api.mainnet-beta.solana.com"}
+
+{"timestamp":"2023-09-01T07:36:29.565Z","level":"info","id":"Environment","message":"CLUSTER: localnet"}
+
+{"timestamp":"2023-09-01T07:36:29.566Z","level":"info","id":"Environment","message":"RPC_URL: http://0.0.0.0:8899"}
+{"timestamp":"2023-09-01T07:36:29.566Z","level":"info","id":"Environment","message":"WS_URL: NOT_SET"}
+{"timestamp":"2023-09-01T07:36:29.566Z","level":"info","id":"Environment","message":"ORACLE_KEY: 6JvupTPqgnXhdDWad75cxioyyiwYts2XFFnah4FV8L9d"}
+
+{"timestamp":"2023-09-01T07:36:29.566Z","level":"info","id":"Environment","message":"SGX_ENABLED: false"}
+
+{"timestamp":"2023-09-01T07:36:29.568Z","level":"info","id":"Environment","message":"LOCALNET: true"}
+
+{"timestamp":"2023-09-01T07:36:29.569Z","level":"info","id":"Environment","message":"PAYER: jV8TVMf7gYng1vcYvgmFHNV9QXMXQuAg61vnpPNZohp"}
+
+{"timestamp":"2023-09-01T07:36:29.570Z","level":"info","id":"Environment","message":"PAYER_BALANCE: 499999999.9742071"}
+
+{"timestamp":"2023-09-01T07:36:30.118Z","level":"info","id":"oracle","message":"SolanaOracle starting ..."}
+
+{"timestamp":"2023-09-01T07:36:30.118Z","level":"info","id":"","message":"Heartbeat routine started with an interval of 30.000 seconds."}
+
+{"timestamp":"2023-09-01T07:36:30.119Z","level":"info","id":"Oracle","message":"Watching event: AggregatorOpenRoundEvent ..."}
+
+{"timestamp":"2023-09-01T07:36:30.121Z","level":"info","id":"Oracle","message":"Watching event: VrfRequestRandomnessEvent ..."}
+
+{"timestamp":"2023-09-01T07:36:30.122Z","level":"info","id":"Oracle","message":"Watching event: BufferRelayerOpenRoundEvent ..."}
+
+{"timestamp":"2023-09-01T07:36:30.126Z","level":"info","id":"HealthCheck","message":"health check handler started"}
+
+{"timestamp":"2023-09-01T07:36:30.126Z","level":"info","id":"EventLoopMonitor","message":"Using default performance monitoring"}
+
+{"timestamp":"2023-09-01T07:36:30.138Z","level":"debug","id":"Heartbeat","message":"HeartbeatSignature: 2u7j15xwVMZmbwyyAXXCjJaZw8DqrY3doRfWn8zXFoPEFCAYFs3hks9wH2zqxyxenf6yFzeoiArore1mj641PBTp"}
